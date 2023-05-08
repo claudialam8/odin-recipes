@@ -1,0 +1,15 @@
+#container{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    width:600px;
+}
+.grids{
+
+    border-color: black;
+    border-style: solid;
+    width: auto;
+    height: 25px;
+    flex-basis: 5%;
+    
+}
